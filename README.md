@@ -519,5 +519,5 @@ I think the deployer of this contract is in fact a relay operator. I haven't ver
 
 <p>
  I am assuming the culprit is trying to take out the competition. If this type of attack is not fixed, the railgun project will fail. If it's not fixable, there 
-  needs to be some kind of insurance fund to reimburse rekt operators. But I think it should be fixable.
+  needs to be some kind of insurance fund to reimburse rekt operators. But I think it should be fixable. I thought transactions that would fail were rejected. How is that not the case?
 </p>
