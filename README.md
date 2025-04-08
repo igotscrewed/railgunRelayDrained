@@ -3,7 +3,7 @@
 ## Incident Regarding ~ $730 of Ethereum drained from my railgun relay. 
 
 #### Synopsis
-Starting at Apr-07-2025 at 10:12:47 AM UTC, my railgun relay suffered a series of attacks. Twelve transactions over the course of an hour reverted, costing me about $730, or about .48 Ethereum. The attacks contiunued until all of my relay's available ethereum was depleted. Upon further analysis, I discovered that the target contract for these transactions was this contract: [0x87c7f7d6c8e4a358eb798e92574ae129f001d7f5 (https://etherscan.io/address/0x87c7f7d6c8e4a358eb798e92574ae129f001d7f5/advanced#internaltx) 
+Starting at Apr-07-2025 at 10:12:47 AM UTC, my railgun relay suffered a series of attacks. Twelve transactions over the course of an hour reverted, costing me about $730, or about .48 Ethereum. The attacks contiunued until all of my relay's available ethereum was depleted. Upon further analysis, I discovered that the target contract for these transactions was this contract: [https://etherscan.io/address/0x87c7f7d6c8e4a358eb798e92574ae129f001d7f5/advanced#internaltx](0x87c7f7d6c8e4a358eb798e92574ae129f001d7f5)
 
 
 #### Reverting contract: 
@@ -514,7 +514,7 @@ error
 #### Interesting twist
 <p>
 I think the deployer of this contract is in fact a relay operator. I haven't verified that for sure, but it sure looks that way.
-[take a look](https://etherscan.io/address/0xfacfc25c10ff9e44cf2439dbbec9b20e887d4530)
+[https://etherscan.io/address/0xfacfc25c10ff9e44cf2439dbbec9b20e887d4530](take a look ... )
 </p>
 
 <p>
